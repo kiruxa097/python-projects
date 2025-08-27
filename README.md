@@ -10,6 +10,7 @@
 
 # Big-projects
 более крупные и интересные проекты (игры, боты, работа с API и т.д)
+- [Игра BINGO](https://github.com/kiruxa097/bingo-game)
 
 ---
 
@@ -20,3 +21,4 @@
     - pygame
     - numpy и pandas (учу их)
     - JSON
+
